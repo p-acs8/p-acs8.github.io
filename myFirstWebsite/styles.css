@@ -1,0 +1,64 @@
+body {
+    background-image: url(assets/topography.png);
+    margin: 0px;
+    font-family: 'Segoe UI';
+    line-height: 20px;
+}
+
+.topnav {
+    background-color: #333333;
+    height: 50px;
+    width: 100%;
+}
+
+.Document {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+.nav-logo {
+    display: inline-block;
+    margin-left: 10%;
+    color: white;
+    margin-top: 10px;
+}
+
+.topnav a {
+    float: right;
+    color: #ff0099;
+    padding: 15px 15px;
+}
+
+.topnav #linkedin {
+    margin-right: 100px;
+}
+
+.myName {
+    margin-top: 100px;
+    margin-bottom: 30px;
+
+}
+
+.description h2 {
+    color: #ff0099;
+    font-weight: 500;
+}
+
+.description p {
+    font-family: "Inconsolata";
+}
+
+.divider {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.tech-wiki h1 {
+    text-align: center;
+}
+
+.tech-wiki p {
+    font-family: "Inconsolata";
+}
